@@ -1,0 +1,8 @@
+
+# Unity locals
+Build/
+Library/
+Logs/
+Obj/
+UserSettings/
+Temp/
